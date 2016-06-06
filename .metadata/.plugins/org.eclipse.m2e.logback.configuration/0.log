@@ -36,3 +36,17 @@
 2016-06-06 19:16:30,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-06-06 19:16:30,972 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-06 19:16:30,972 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/test/resources
+2016-06-06 19:22:59,428 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/jamietobin/Documents/workspaceWS/WebServices/soap/hellows/pom.xml
+2016-06-06 19:22:59,651 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mycomp.ws:hellows:0.0.1-SNAPSHOT @ /Users/jamietobin/Documents/workspaceWS/WebServices/soap/hellows/pom.xml.
+2016-06-06 19:22:59,872 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellows/src/main/java
+2016-06-06 19:22:59,872 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellows/src/main/resources
+2016-06-06 19:22:59,873 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellows/src/test/java
+2016-06-06 19:23:04,368 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-06-06 19:23:04,522 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:23:04,522 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-06 19:23:04,523 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:23:04,523 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/hellows/src/test/resources
+2016-06-06 19:25:26,972 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:25:26,973 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-06 19:25:26,973 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:25:26,974 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/hellows/src/test/resources
