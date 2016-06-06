@@ -1,0 +1,38 @@
+2016-06-06 19:03:59,034 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bharath:jaxb-xjc:0.0.1-SNAPSHOT @ /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/pom.xml.
+2016-06-06 19:03:59,455 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Generated sources are up-to-date; XJC execution will be skipped.
+2016-06-06 19:03:59,529 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:03:59,529 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/main/resources
+2016-06-06 19:03:59,529 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-06 19:03:59,536 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:03:59,536 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/test/resources
+2016-06-06 19:04:01,089 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bharath:jaxb-xjc:0.0.1-SNAPSHOT @ /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/pom.xml.
+2016-06-06 19:04:02,106 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Generated sources are up-to-date; XJC execution will be skipped.
+2016-06-06 19:04:02,207 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:04:02,207 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/main/resources
+2016-06-06 19:04:02,208 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-06 19:04:02,209 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:04:02,209 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/test/resources
+2016-06-06 19:04:08,897 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc
+2016-06-06 19:04:08,897 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2016-06-06 19:15:44,722 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.trainings.ws.soap:javafirstws:1.0 @ /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/pom.xml.
+2016-06-06 19:15:45,204 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafirstws/src/main/java
+2016-06-06 19:15:45,204 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafirstws/src/test/java
+2016-06-06 19:15:46,281 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-06-06 19:15:46,544 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:15:46,545 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/main/resources
+2016-06-06 19:15:46,546 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:15:46,547 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/test/resources
+2016-06-06 19:15:57,275 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:15:57,276 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/main/resources
+2016-06-06 19:15:57,276 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:15:57,276 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/test/resources
+2016-06-06 19:16:30,873 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:16:30,873 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/main/resources
+2016-06-06 19:16:30,874 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-06 19:16:30,875 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/javafirstws/src/test/resources
+2016-06-06 19:16:30,961 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Generated sources are up-to-date; XJC execution will be skipped.
+2016-06-06 19:16:30,962 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:16:30,962 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/main/resources
+2016-06-06 19:16:30,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-06 19:16:30,972 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-06 19:16:30,972 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jamietobin/Documents/workspaceWS/WebServices/soap/jaxb-xjc/src/test/resources
