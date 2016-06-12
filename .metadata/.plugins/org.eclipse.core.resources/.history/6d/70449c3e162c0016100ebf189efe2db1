@@ -1,0 +1,8 @@
+package hellows;
+
+public class HelloWorldWs {
+
+	public String sayHello(){
+		return "Hello world";
+	}
+}

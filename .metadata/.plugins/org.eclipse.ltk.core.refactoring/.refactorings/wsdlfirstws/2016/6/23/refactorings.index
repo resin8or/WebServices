@@ -1,0 +1,8 @@
+1465723011548	Delete element
+1465723263227	Delete element
+1465723746673	Delete element
+1465726314774	Extract local variable 'customerId'
+1465726373302	Extract local variable 'list'
+1465726554025	Extract local variable 'order'
+1465726756625	Extract local variable 'order'
+1465726990707	Extract local variable 'createOrdersResponse'
